@@ -7,7 +7,7 @@ val ddipper = Person (
   skills = setOf("c#", "cpp", "css")
 )
 
-pkasila.hi()
+ddipper.hi()
 
 // Prints out: Hey! Nice to see you there 😉
 ```
