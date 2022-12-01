@@ -1,5 +1,5 @@
 ```ddipper
-object ddipper = Person (
+val ddipper = Person (
   name = "Dmitry Butsko",
   age = 16,
   location = "Minsk/Lida, Belarus",
