@@ -1,10 +1,10 @@
-```ddipper
-val ddipper = Person(
-  name = "Dmitry Butsko",
-  age = 16,
-  location = "Minsk/Lida, Belarus",
-  languages = setOf("be", "ru", "en"),
-  skills = setOf("c#", "cpp", "css")
+```kotlin
+val pkasila = Person(
+  name = "Pavel Kasila",
+  age = 17,
+  location = "Minsk, Belarus",
+  languages = setOf("be", "en", "ru"),
+  skills = setOf("swift", "kotlin", "java", "cpp", "python", "typescript")
 )
 
 ddipper.hi()
