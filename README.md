@@ -1,5 +1,5 @@
 ```kotlin
-val ddipper = Person(
+object ddipper = Person(
   name = "Dmitry Butsko",
   age = 16,
   location = "Minsk/Lida, Belarus",
