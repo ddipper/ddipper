@@ -2,7 +2,7 @@
 val pkasila = Person(
   name = "Dmitry Butsko",
   age = 16,
-  location = "Minsk, Belarus",
+  location = "Minsk/Lida, Belarus",
   languages = setOf("be", "en", "ru"),
   skills = setOf("swift", "kotlin", "java", "cpp", "python", "typescript")
 )
