@@ -1,7 +1,7 @@
 ```kotlin
 val pkasila = Person(
-  name = "Dmitry",
-  age = 17,
+  name = "Dmitry Butsko",
+  age = 16,
   location = "Minsk, Belarus",
   languages = setOf("be", "en", "ru"),
   skills = setOf("swift", "kotlin", "java", "cpp", "python", "typescript")
