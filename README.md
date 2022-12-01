@@ -1,6 +1,6 @@
 ```kotlin
 val pkasila = Person(
-  name = "Pavel Kasila",
+  name = "Dmitry",
   age = 17,
   location = "Minsk, Belarus",
   languages = setOf("be", "en", "ru"),
