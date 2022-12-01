@@ -4,7 +4,7 @@ val pkasila = Person(
   age = 16,
   location = "Minsk/Lida, Belarus",
   languages = setOf("be", "en", "ru"),
-  skills = setOf("swift", "kotlin", "java", "cpp", "python", "typescript")
+  skills = setOf("c#", "cpp", "css")
 )
 
 ddipper.hi()
