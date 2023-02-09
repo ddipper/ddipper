@@ -17,7 +17,7 @@ ddipper.hi()
 - 📪 There are some [personal projects](https://github.com/ddipper?tab=repositories) you may ask me about
 - 🔎 How to reach me:
   - ✉️ Mail: [dev.dbuts@gmail.com](mailto:dev.dbuts@gmail.com)
-  - Telegram: [@ddipperq3](https://t.me/ddipperq3)
+  - Telegram: [@ddipperq](https://t.me/ddipperq)
 - 😋 Pronouns: he/him/his
 
 ## Donate
