@@ -12,7 +12,7 @@ ddipper.hi()
 // Prints out: Hey! Nice to see you there 😉
 ```
 
-- 🔭 I’m currently working on [Gun Roof](https://github.com/Gun-Roof)
+- 🔭 I’m currently working on [My PC](https://github.com/My-PC-ItClub)
 - 🎯 I’m looking to collaborate on *shhh.. 🤫 if you would like to, contact me*
 - 📪 There are some [personal projects](https://github.com/ddipper?tab=repositories) you may ask me about
 - 🔎 How to reach me:
