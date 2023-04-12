@@ -1,4 +1,4 @@
-```kotlin
+```ddipper
 object ddipper = Person(
   name = "Dmitry Buts",
   age = 16,
