@@ -23,3 +23,5 @@ ddipper.hi()
 ## Donate
 
 - [Donation Alerts](https://www.donationalerts.com/r/ddipper)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddipper&layout=compact&theme=buefy)](https://github.com/ddipper/github-readme-stats)
