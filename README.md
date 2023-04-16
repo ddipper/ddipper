@@ -19,8 +19,3 @@ ddipper.hi()
   - ✉️ Mail: [dev.dbuts@gmail.com](mailto:dev.dbuts@gmail.com)
   - Telegram: [@ddipperq](https://t.me/ddipperq)
 - 😋 Pronouns: he/him/his
-
-## Donate
-
-- [Donation Alerts](https://www.donationalerts.com/r/ddipper)
-
