@@ -2,7 +2,7 @@
 object ddipper = Person(
   name = "Dmitry Buts",
   age = 16,
-  location = "Minsk/Lida, Belarus",
+  location = "Minsk, Belarus",
   languages = setOf("be", "en", "ru"),
   skills = setOf("c#", "cpp", "css")
 )
