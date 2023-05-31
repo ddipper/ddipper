@@ -4,7 +4,7 @@ object ddipper = Person(
   age = 16,
   location = "Minsk, Belarus",
   languages = setOf("be", "en", "ru"),
-  skills = setOf("c#", "cpp", "css")
+  skills = setOf("c#", "cpp", "git", "sql", "html", "css")
 )
 
 ddipper.hi()
