@@ -16,7 +16,7 @@ ddipper.hi()
 - 🔎 How to reach me:
   - ✉️ Mail: [dev.dbuts@gmail.com](mailto:dev.dbuts@gmail.com)
   - Telegram: [@ddipperq](https://t.me/ddipperq)
-- 😋 Pronouns: he/him/hi
+- 😋 Pronouns: he/him/his
 
 ## My Stats
 
