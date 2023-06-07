@@ -33,7 +33,7 @@ ddipper.hi()
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ddipper&hide_border=true&card_width=338&theme=transparent" />
   </a>
   <a href="https://github.com/ddipper">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ddipper&theme=github-dark" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ddipper&theme=transparent" />
   </a>
   </a>
 </p>
