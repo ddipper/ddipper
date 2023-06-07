@@ -24,16 +24,9 @@ ddipper.hi()
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddipper&langs_count=4?&layout=compact&theme=dracula&card_width=350&count_weight=-1)
 
+![](https://raw.githubusercontent.com/ddipper/ddipper/master/profile-summary-card-output/tokyonight/0-profile-details.svg)
+![](https://raw.githubusercontent.com/ddipper/ddipper/master/profile-summary-card-output/tokyonight/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/ddipper/ddipper/master/profile-summary-card-output/tokyonight/2-most-commit-language.svg)
+![](https://raw.githubusercontent.com/ddipper/ddipper/master/profile-summary-card-output/tokyonight/3-stats.svg)
+![](https://raw.githubusercontent.com/ddipper/ddipper/master/profile-summary-card-output/tokyonight/4-productive-time.svg)
 
-<p align="center">
-  <a href="https://github.com/ddipper">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ddipper&hide_border=true&theme=github_dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/ddipper">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ddipper&hide_border=false&card_width=338&theme=github_dark" />
-  </a>
-  <a href="https://github.com/ddipper">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ddipper&hide_border=true&theme=github_dark" />
-  </a>
-  </a>
-</p>
