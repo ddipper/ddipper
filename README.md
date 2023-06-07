@@ -20,10 +20,6 @@ ddipper.hi()
 
 ## My Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddipper&show_icons=true&theme=dracula&hide=contribs,prs)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddipper&langs_count=4?&layout=compact&theme=dracula&card_width=350&count_weight=-1)
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ddipper&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ddipper&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ddipper&theme=dracula)
