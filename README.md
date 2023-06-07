@@ -30,7 +30,7 @@ ddipper.hi()
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ddipper&hide_border=true&theme=github_dark&hide_border=true" />
   </a>
   <a href="https://github.com/ddipper">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ddipper&hide_border=true&card_width=338&theme=github_dark" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ddipper&hide_border=false&card_width=338&theme=github_dark" />
   </a>
   <a href="https://github.com/ddipper">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ddipper&hide_border=true&theme=github_dark" />
