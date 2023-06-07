@@ -18,7 +18,7 @@ ddipper.hi()
   - Telegram: [@ddipperq](https://t.me/ddipperq)
 - 😋 Pronouns: he/him/his
 
-## My Stats
+## My Stats=
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddipper&show_icons=true&theme=dracula&hide=contribs,prs)
 
