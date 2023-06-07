@@ -25,4 +25,4 @@ ddipper.hi()
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ddipper&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ddipper&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ddipper&theme=dracula&utcOffset=+3)
-
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=wervlad&hide_border=true&card_width=338&theme=dracula"
