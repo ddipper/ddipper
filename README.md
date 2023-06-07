@@ -27,13 +27,13 @@ ddipper.hi()
 
 <p align="center">
   <a href="https://github.com/ddipper">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ddipper&theme=react" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ddipper&theme=github_dark" />
   </a>
   <a href="https://github.com/ddipper">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ddipper&hide_border=true&card_width=338&theme=react" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ddipper&hide_border=true&card_width=338&theme=github_dark" />
   </a>
   <a href="https://github.com/ddipper">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ddipper&theme=react" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ddipper&theme=github_dark" />
   </a>
   </a>
 </p>
