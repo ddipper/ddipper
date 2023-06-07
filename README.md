@@ -24,9 +24,9 @@ ddipper.hi()
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddipper&langs_count=4?&layout=compact&theme=dracula&card_width=350&count_weight=-1)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ddipper&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ddipper&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ddipper&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ddipper&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ddipper&theme=github_dark&utcOffset=+3)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ddipper&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ddipper&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ddipper&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ddipper&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ddipper&theme=dracula&utcOffset=+3)
 
