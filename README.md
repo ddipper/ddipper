@@ -1,8 +1,7 @@
 ```kotlin
 object ddipper = Person(
-  name = "Dmitry Buts",
-  age = 16,
-  location = "Minsk, Belarus",
+  name = "###",
+  age = 18,
   languages = setOf("be", "en", "ru"),
   skills = setOf("c#", "cpp", "git", "sql", "html", "css")
 )
