@@ -98,7 +98,7 @@
   <img style="margin: 10px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ddipper&theme=dracula" alt="a2"/>  
   <img style="margin: 10px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ddipper&theme=dracula" alt="a3"/>
   <img style="margin: 10px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ddipper&theme=dracula&utcOffset=+3" alt="a4"/>
-  <img style="margin: 10px" src="https://github-readme-streak-stats.herokuapp.com/?user=ddipper&hide_border=true&theme=dracula" alt="a5"/>
+  <!--<img style="margin: 10px" src="https://streak-stats.demolab.com/?user=ddipper&hide_border=true&theme=dracula" alt="a5"/>-->
 </div>
 
 <br/>
