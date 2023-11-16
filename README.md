@@ -14,7 +14,7 @@
 - ❓ How to reach me: **telegram [@ddipperq](https://t.me/ddipperq)**
   
 
-- ⚡ Pronouns: **he/him/his**  
+- ⚡ Pronouns: **he/him/his** 
   
 
 <br/>  
