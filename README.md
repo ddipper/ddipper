@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning **C++**
   
 
-- ❓ How to reach me: **telegram [@ddipperq](https://t.me/ddipperq)** 
+- ❓ How to reach me: **telegram [@ddipperq](https://t.me/ddipperq)**
   
 
 - ⚡ Pronouns: **he/him/his** 
