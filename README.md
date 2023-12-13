@@ -8,7 +8,7 @@
 - 🍁 I’m looking to **collaborate** on shhh.. 🤫 if you would like to, contact me 
   
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **Typescript**
   
 
 - ❓ How to reach me: **telegram [@ddipperq](https://t.me/ddipperq)**
