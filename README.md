@@ -5,7 +5,7 @@
 
 ### <div align="center">I'm Dmitry, Trainee .Net developer 👨‍💻 learning since 2021 🚀</div>  
 
-- 🍁 I’m looking to **collaborate** on shhh.. 🤫 if you would like to, contact me 
+- 🍁 I’m looking to **collaborate** on shhh.. 🤫 if you would like to, contact me
   
 
 - 🌱 I’m currently learning **Typescript**
