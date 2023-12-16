@@ -19,10 +19,5 @@
 
 ## 📈 Github stats
 
-  <a href="https://github.blog/changelog/2022-05-19-specify-theme-context-for-images-in-markdown-beta/">
-  <img alt="Dark/Light Readme Support!" title="Dark/Light Readme Support!" src="https://custom-icon-badges.demolab.com/badge/-Dark/Light%20Readme%20Support!-gold?style=for-the-badge&logo=repo-template&logoColor=black"/></a>
-  <br>
-</p>
-
 
 
