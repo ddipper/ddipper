@@ -1,7 +1,7 @@
-<h1 align="center">
+<h3 align="center">
   Welcome to Dmitry's profile!
   <img src="https://raw.githubusercontent.com/danielcshn/danielcshn/master/icons/wave.gif" width="30" height="30">
-</h1>
+</h3>
 <div align="center">
   <img src="/snake.svg" width="80%">
 </div>
