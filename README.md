@@ -25,3 +25,7 @@
   ![ddipper's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ddipper&theme=dark&show_icons=true&hide_border=true)</br>
 
 </div> -->
+
+## Links
+[Portfolio](https://ddipperq.website/) </br>
+[Other Links](https://e-z.bio/ddipperq)
