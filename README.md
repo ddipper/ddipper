@@ -13,7 +13,7 @@
 <!-- https://github.com/tandpfun/skill-icons -->
 <div align="center">
 
-  [![My Skills](https://skillicons.dev/icons?i=dotnet,golang,javascript,vue,nodejs,typescript,html,css,mysql,postgres,bash,&theme=dark&perline=10)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=dotnet,golang,javascript,vue,nodejs,typescript,html,css,mysql,postgres,&theme=dark&perline=10)](https://skillicons.dev)
 
 </div>
 
